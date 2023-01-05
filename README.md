@@ -1,5 +1,6 @@
 # TTEA
 Codes for Articles TTEA: Type-Enhanced ensemble Triple Representation based on Triple-aware Attention for Cross-lingual Entity Alignment
+![image](https://user-images.githubusercontent.com/116544689/210715516-4bedb8f6-7dee-4f33-9036-67c3cc2117bc.png)
 
 Simplified DBP15K：
 
